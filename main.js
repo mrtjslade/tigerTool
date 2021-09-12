@@ -7,4 +7,4 @@ client.once('ready', () => {
 });
 
 // This needs to be at the end of the file
-client.login('ODg2NzE0OTIzNzIyMzU4Nzg1.YT5noA.U6CjFqP1189K1BU_CXnxjycDwsg');
+client.login('ODg2NzE0OTIzNzIyMzU4Nzg1.YT5noA.oXrWpBF6YqdAlSUIFapyL5GRRqY');
